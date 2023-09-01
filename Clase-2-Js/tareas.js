@@ -9,7 +9,7 @@
 
 // Crea una variable "string", puede contener lo que quieras:
 // Tip: borrar el dato 'null' antes de poner el dato tipo string.
-const nuevaString = null;
+const nuevaString = "Hola, no sabia que habia tarea";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
@@ -21,7 +21,7 @@ const nuevoBool = null;
 const nuevaResta = 10 - 5 === null;
 
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = 10 * 4 === null ;
+const nuevaMultiplicacion = 10 * 4 === null;
 
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === null;
@@ -63,7 +63,7 @@ function sonIguales(x, y) {
 function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
-  // Tu código: 
+  // Tu código:
 }
 
 function menosQueNoventa(num) {
@@ -127,8 +127,8 @@ function numeroRandom() {
 }
 
 function esPositivo(numero) {
-  // La función va a recibir un entero. 
-  // Devuelve como resultado una cadena de texto que indica si el número es positivo o negativo. 
+  // La función va a recibir un entero.
+  // Devuelve como resultado una cadena de texto que indica si el número es positivo o negativo.
   // Si el número es positivo, devolver ---> "Es positivo"
   // Si el número es negativo, devolver ---> "Es negativo"
   // Si el número es 0, devuelve false
@@ -177,8 +177,8 @@ function areaDelTriangulo(base, altura) {
 }
 
 function esVocal(letra) {
-  //Escribe una función que reciba una letra y, si es una vocal, muestre el mensaje “Es vocal”. 
-  //Verificar si el usuario ingresó un string de más de un carácter y, en ese caso, informarle 
+  //Escribe una función que reciba una letra y, si es una vocal, muestre el mensaje “Es vocal”.
+  //Verificar si el usuario ingresó un string de más de un carácter y, en ese caso, informarle
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
   //Escribe tu código aquí
 }
